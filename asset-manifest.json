@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cloudbankindemo/static/css/main.67bf4e04.chunk.css",
+    "main.js": "/cloudbankindemo/static/js/main.3a293370.chunk.js",
+    "main.js.map": "/cloudbankindemo/static/js/main.3a293370.chunk.js.map",
+    "runtime-main.js": "/cloudbankindemo/static/js/runtime-main.0a415606.js",
+    "runtime-main.js.map": "/cloudbankindemo/static/js/runtime-main.0a415606.js.map",
+    "static/js/2.02ecaf62.chunk.js": "/cloudbankindemo/static/js/2.02ecaf62.chunk.js",
+    "static/js/2.02ecaf62.chunk.js.map": "/cloudbankindemo/static/js/2.02ecaf62.chunk.js.map",
+    "static/js/3.68a39754.chunk.js": "/cloudbankindemo/static/js/3.68a39754.chunk.js",
+    "static/js/3.68a39754.chunk.js.map": "/cloudbankindemo/static/js/3.68a39754.chunk.js.map",
+    "index.html": "/cloudbankindemo/index.html",
+    "static/css/main.67bf4e04.chunk.css.map": "/cloudbankindemo/static/css/main.67bf4e04.chunk.css.map",
+    "static/js/2.02ecaf62.chunk.js.LICENSE.txt": "/cloudbankindemo/static/js/2.02ecaf62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a415606.js",
+    "static/js/2.02ecaf62.chunk.js",
+    "static/css/main.67bf4e04.chunk.css",
+    "static/js/main.3a293370.chunk.js"
+  ]
+}
